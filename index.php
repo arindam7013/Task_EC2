@@ -2,4 +2,4 @@
 
 print `ifconfig`
 
-</php>
+?>
